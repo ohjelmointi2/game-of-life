@@ -1,4 +1,4 @@
-package part02;
+package gameoflife;
 
 import java.util.List;
 
